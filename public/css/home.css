@@ -1,0 +1,154 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.home{
+    background-color: #FFEAEA;
+}
+#imgabout{
+    border-radius: 30px;
+    width: 400px;
+    height: 400px;
+}
+.service{
+    background-color: #FFEAEA;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 30px;
+}
+.service i{
+    font-size: 60px;
+}
+.container h2{
+    color: black;
+}
+.staff img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.staff{
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 20px;
+}
+.chef h3 {
+    color: black;
+}
+.chef a{
+    color: red;
+    list-style-type: none;
+    text-decoration: none;
+}
+.position{
+    color: black;
+}
+.chef p{
+    color: black;
+}
+#menuitem{
+    margin: 10px;
+    background-color: white;
+    border-radius: 30px;
+}
+.instock{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    top: 30px;
+    right: 30px;
+}
+.outstock{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    top: 30px;
+    right: 30px;
+}
+.instock i {
+    color: green;
+}
+
+.outstock i {
+    color: red;
+}
+.text-success i, .text-success h6 {
+    color: green;
+}
+
+.text-danger i, .text-danger h6 {
+    color: red;
+}
+#imagemenu{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 300px;
+    height: 300px;
+}
+#btnorder{
+    margin-bottom: 20px;
+}
+.text{
+    background-color: white;
+}
+.service{
+    background-color: #FFEAEA;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 30px;
+}
+.service i{
+    font-size: 60px;
+}
+#menuitem{
+    margin: 10px;
+    background-color: white;
+    border-radius: 30px;
+}
+.instock{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    top: 30px;
+    right: 30px;
+}
+.instock i{
+    color: green;
+}
+#imagemenu{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 300px;
+    height: 300px;
+}
+#btnorder{
+    margin-bottom: 20px;
+}
+.text{
+    background-color: white;
+}
+.service{
+    background-color: #FFEAEA;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 30px;
+}
+.service i{
+    font-size: 60px;
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer li{
+    list-style-type: none;
+}
+.footer{
+    border-top: 1px solid black;
+    background-color: #FFEAEA;
+    color: black;
+}
